@@ -1,0 +1,11 @@
+﻿     Creating library bin\whitney_debug.lib and object bin\whitney_debug.exp
+  whitney.vcxproj -> C:\Users\moham\Dropbox (MIT)\lsmail_Classes\Fall 2021\MAS S63_Recreating the Past\of_v0.11.2_vs2017_release\apps\myApps\whitney\bin\whitney_debug.exe
+  
+  	                   2	C:\Users\moham\Dropbox (MIT)\lsmail_Classes\Fall 2021\MAS S63_Recreating the Past\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\x64\
+  	    New File  		 1826304	C:\Users\moham\Dropbox (MIT)\lsmail_Classes\Fall 2021\MAS S63_Recreating the Past\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\x64\fmod.dll
+  	    New File  		 2041856	C:\Users\moham\Dropbox (MIT)\lsmail_Classes\Fall 2021\MAS S63_Recreating the Past\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\x64\fmodL.dll
+  
+  	                   1	C:\Users\moham\Dropbox (MIT)\lsmail_Classes\Fall 2021\MAS S63_Recreating the Past\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1826304	C:\Users\moham\Dropbox (MIT)\lsmail_Classes\Fall 2021\MAS S63_Recreating the Past\of_v0.11.2_vs2017_release\apps\myApps\whitney\bin\fmod.dll
+  	  *EXTRA File 		 2041856	C:\Users\moham\Dropbox (MIT)\lsmail_Classes\Fall 2021\MAS S63_Recreating the Past\of_v0.11.2_vs2017_release\apps\myApps\whitney\bin\fmodL.dll
+  	    New File  		 6942208	C:\Users\moham\Dropbox (MIT)\lsmail_Classes\Fall 2021\MAS S63_Recreating the Past\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\x64\FreeImage.dll

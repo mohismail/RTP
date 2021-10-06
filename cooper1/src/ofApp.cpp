@@ -13,7 +13,7 @@ void ofApp::update(){
 //--------------------------------------------------------------
 void ofApp::draw(){
 	ofBackground(255, 242, 226);
-	ofEnableDepthTest();
+	//ofEnableDepthTest();
 
 	cam.enableOrtho();
 	cam.begin();

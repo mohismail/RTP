@@ -1,0 +1,10 @@
+﻿  main.cpp
+  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+     Creating library bin\sinExample4_debug.lib and object bin\sinExample4_debug.exp
+  sinExample4.vcxproj -> C:\Users\moham\Dropbox (MIT)\lsmail_Classes\Fall 2021\MAS S63_Recreating the Past\of_v0.11.2_vs2017_release\apps\myApps\sinExample4\bin\sinExample4_debug.exe
+  \lsmail_Classes\Fall was unexpected at this time.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: The command "for /d %%f in (C:\Users\moham\Dropbox (MIT)\lsmail_Classes\Fall 2021\MAS S63_Recreating the Past\of_v0.11.2_vs2017_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\*) do (if exist %%f\lib\vs\Win32\*.dll ( robocopy "%%f\lib\vs\Win32" "C:\Users\moham\Dropbox (MIT)\lsmail_Classes\Fall 2021\MAS S63_Recreating the Past\of_v0.11.2_vs2017_release\apps\myApps\sinExample4\bin" "*.dll" /njs /njh /np /fp /bytes ))
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: if errorlevel 1 exit 0 else exit %errorlevel%
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: :VCEnd" exited with code 255.
